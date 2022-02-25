@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0944f513-4b0b-45a7-94c3-54a7825a4ba6" name="Default Changelist" comment="1_3 - construct_model - Добавления.&#10; - Добавлены операции записи информации о создаваемых ландшафтах на поле у проектировщиков лабиринтов;&#10; - Добавлен функционал установки ландшафтов на поле проектировщиком лабиринтов;&#10; - Реализована операция обновления ландшафтов на поле." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="construct_gui" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/model/Events/SmartRobotEventListener.java" />
+        <option value="$PROJECT_DIR$/src/model/GameElements/SillyRobot.java" />
+        <option value="$PROJECT_DIR$/src/model/Cells/ExitCell.java" />
+        <option value="$PROJECT_DIR$/test/GameElements/TEST_SmartRobot.java" />
+        <option value="$PROJECT_DIR$/test/GameElements/TEST_SillyRobot.java" />
+        <option value="$PROJECT_DIR$/test/Cells/TEST_ExitCell.java" />
+        <option value="$PROJECT_DIR$/test/Navigation/TEST_CellPosition.java" />
+        <option value="$PROJECT_DIR$/test/Navigation/TEST_Direction.java" />
+        <option value="$PROJECT_DIR$/test/Navigation/TEST_BetweenCellsPosition.java" />
+        <option value="$PROJECT_DIR$/test/Navigation/TEST_RectangleSize.java" />
+        <option value="$PROJECT_DIR$/test/Navigation/TEST_RectangleArea.java" />
+        <option value="$PROJECT_DIR$/test/GameCore/TEST_Field.java" />
+        <option value="$PROJECT_DIR$/src/model/Cells/StandardCell.java" />
+        <option value="$PROJECT_DIR$/src/model/GameElements/SmartRobot.java" />
+        <option value="$PROJECT_DIR$/test/Cells/TEST_StandardCell.java" />
+        <option value="$PROJECT_DIR$/test/GameCore/TEST_GameElement.java" />
+        <option value="$PROJECT_DIR$/test/model/Cells/TEST_StandardCell.java" />
+        <option value="$PROJECT_DIR$/src/model/Events/ExitCellEvent.java" />
+        <option value="$PROJECT_DIR$/src/model/Additional/Pair.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/GameElement.java" />
+        <option value="$PROJECT_DIR$/src/model/GameElements/Sewer.java" />
+        <option value="$PROJECT_DIR$/src/model/Navigation/Direction.java" />
+        <option value="$PROJECT_DIR$/src/model/Navigation/CellPosition.java" />
+        <option value="$PROJECT_DIR$/src/model/Navigation/BetweenCellsPosition.java" />
+        <option value="$PROJECT_DIR$/src/model/Navigation/RectangleArea.java" />
+        <option value="$PROJECT_DIR$/src/model/Navigation/RectangleSize.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/MazeDesigner.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/TEST_Field.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/TEST_Game.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/Field.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/FinishingGameCore/ExitCell.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/GameState.java" />
+        <option value="$PROJECT_DIR$/src/model/Events/GameEvent.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/TEST_GameElement.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/AbstractCell.java" />
+        <option value="$PROJECT_DIR$/src/model/GameElements/AbstractRobot.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/TEST_StandardCell.java" />
+        <option value="$PROJECT_DIR$/src/model/Events/SmartRobotEvent.java" />
+        <option value="$PROJECT_DIR$/src/model/Events/SillyRobotEvent.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/FinishingGameCore/TEST_ExitCell.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/FinishingGameCore/TEST_SmartRobot.java" />
+        <option value="$PROJECT_DIR$/src/model/Events/SillyRobotEventListener.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/Game.java" />
+        <option value="$PROJECT_DIR$/src/model/MazeDesigners/ForTestMazeDesigner.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/FinishingGameCore/SillyRobot.java" />
+        <option value="$PROJECT_DIR$/src/model/GameCore/FinishingGameCore/SmartRobot.java" />
+        <option value="$PROJECT_DIR$/test/model/GameCore/FinishingGameCore/TEST_SillyRobot.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="702" />
+    <option name="width" value="1225" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectId" id="1pYTxnsAxpXbW4SCVoBgxtIgr5H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="Events" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="GameCore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="GameCore" type="462c0819:PsiDirectoryNode" />
+              <item name="FinishingGameCore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="GameElements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="MazeDesigners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="GameCore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="7_2_Yakimov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="7_2_Yakimov" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="GameCore" type="462c0819:PsiDirectoryNode" />
+              <item name="FinishingGameCore" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OOP_Robots" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\poas902\IdeaProjects\7_2_Yakimov" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Студент\Desktop\7_2_Yakimov\.DIAGRAMS" />
+      <recent name="C:\Users\poas902\IdeaProjects\7_2_Yakimov\.DOC" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="model.GameCore.FinishingGameCore" />
+      <recent name="model.GameCore" />
+      <recent name="model.MazeDesigners" />
+      <recent name="model" />
+      <recent name="Cells" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in 7_2_Yakimov">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 7_2_Yakimov" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_2_Yakimov" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_SillyRobot.makeStep_inSillyWay_makingStepToExitCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_2_Yakimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.GameCore.FinishingGameCore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model.GameCore.FinishingGameCore" />
+      <option name="MAIN_CLASS_NAME" value="model.GameCore.FinishingGameCore.TEST_SillyRobot" />
+      <option name="METHOD_NAME" value="makeStep_inSillyWay_makingStepToExitCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_SillyRobot.makeStep_inSmartWay_makingStepToExitCell" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_2_Yakimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.GameCore.FinishingGameCore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model.GameCore.FinishingGameCore" />
+      <option name="MAIN_CLASS_NAME" value="model.GameCore.FinishingGameCore.TEST_SillyRobot" />
+      <option name="METHOD_NAME" value="makeStep_inSmartWay_makingStepToExitCell" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_StandardCell.placeGameElement_innerGameElementsCantBeInSameCellWithGameElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_2_Yakimov" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.GameCore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model.GameCore" />
+      <option name="MAIN_CLASS_NAME" value="model.GameCore.TEST_StandardCell" />
+      <option name="METHOD_NAME" value="placeGameElement_innerGameElementsCantBeInSameCellWithGameElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST_game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_2_Yakimov" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="uniqueId" />
+      <uniqueIds>
+        <uniqueId value="[engine:junit-jupiter]/[class:model.GameCore.TEST_game]" />
+      </uniqueIds>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 7_2_Yakimov" />
+        <item itemvalue="JUnit.TEST_game" />
+        <item itemvalue="JUnit.TEST_StandardCell.placeGameElement_innerGameElementsCantBeInSameCellWithGameElement" />
+        <item itemvalue="JUnit.TEST_SillyRobot.makeStep_inSmartWay_makingStepToExitCell" />
+        <item itemvalue="JUnit.TEST_SillyRobot.makeStep_inSillyWay_makingStepToExitCell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0944f513-4b0b-45a7-94c3-54a7825a4ba6" name="Default Changelist" comment="" />
+      <created>1613123081137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613123081137</updated>
+      <workItem from="1619696047006" duration="25000" />
+      <workItem from="1619696086389" duration="40000" />
+      <workItem from="1619696154865" duration="507000" />
+      <workItem from="1619696680392" duration="11859000" />
+      <workItem from="1622023958955" duration="20000" />
+      <workItem from="1622023994154" duration="11688000" />
+      <workItem from="1622107045529" duration="19000" />
+      <workItem from="1622107082820" duration="20588000" />
+    </task>
+    <task id="LOCAL-00091" summary="1_3_construct_model - Добавления/Исправления.&#10; - Дополнен список тестов класса ExitCell;&#10; - Дополнен интерфейс класса ExitCell операцией телепортирования умного робота.">
+      <created>1617631524802</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1617631524802</updated>
+    </task>
+    <task id="LOCAL-00092" summary="1_3_construct_model - Добавления/Исправления.&#10; - Дополнен список тестов класса ExitCell;&#10; - Дополнен интерфейс класса ExitCell операцией телепортирования умного робота.">
+      <created>1617631578175</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1617631578175</updated>
+    </task>
+    <task id="LOCAL-00093" summary="1_3_construct_model - Добавления/Исправления.&#10; - Подправлен список тестов класса ExitCell;&#10; - Добавлена реализация класса ExitCell на основе тестов;&#10; - Добавлена возможность указать умному роботу, что он пойман;&#10; - Дополнено содержимое события, порождаемое классом ExitCell.">
+      <created>1617703131628</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1617703131628</updated>
+    </task>
+    <task id="LOCAL-00094" summary="1_3_construct_model - Добавления/Исправления.&#10; - Реализованы и подправлены основные классы модели;&#10; - Исправлены тесты класса SmartRobot;&#10; - Подправлена реализация класса SmartRobot на основе подправленных тестов;&#10; - Подправлены тесты класса SillyRobot.">
+      <created>1617970565029</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1617970565029</updated>
+    </task>
+    <task id="LOCAL-00095" summary="1_3_construct_model - Добавления/Исправления.&#10; - Подправлены тесты класса SillyRobot;&#10; - Подправлена реализация класса SillyRobot на основе подправленных тестов.">
+      <created>1617973287050</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1617973287050</updated>
+    </task>
+    <task id="LOCAL-00096" summary="1_3_construct_model - Добавления/Исправления.&#10; - Подправлен и дополнен список тестов класса Field;&#10; - Подправлена реализация класса Field на основе подправленных тестов.">
+      <created>1618135495524</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1618135495524</updated>
+    </task>
+    <task id="LOCAL-00097" summary="1_3_construct_model - Добавления/Исправления.&#10; - Подправлен и дополнен список тестов класса SillyRobot.">
+      <created>1618151489857</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1618151489857</updated>
+    </task>
+    <task id="LOCAL-00098" summary="1_3_construct_model - Добавления/Исправления.&#10; - Подправлены текущие списки тестов всех классов.">
+      <created>1618159881750</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1618159881750</updated>
+    </task>
+    <task id="LOCAL-00099" summary="1_3_construct_model - Удаление/Исправления.&#10; - Удален класс ForTestMazeDesigner;&#10; - Исправлены все текущие тесты с учётом удаления класса ForTestMazeDesigner.">
+      <created>1618160946955</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1618160946955</updated>
+    </task>
+    <task id="LOCAL-00100" summary="1_3_construct_model - Добавления.&#10; - Добавлен список тестов для класса Game;&#10; - Добавлено хранение робота внутри события, порождаемого игрой;&#10; - Добавлена установка игры в качестве слушателя точки выхода, умного робота и глупого робота;&#10; - Добавлено событие, порождаемое игрой при её создании;&#10; - Добавлен класс ForTestMazeDesigner, нужный в списке тестов класса Game.">
+      <created>1618164080846</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1618164080847</updated>
+    </task>
+    <task id="LOCAL-00101" summary="1_3_construct_model - Добавления/Исправления.&#10; - Декомпозирована общедоступная операция перемещения глупого робота.">
+      <created>1618171915294</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1618171915294</updated>
+    </task>
+    <task id="LOCAL-00102" summary="1_2_design_model - Исправления.&#10; - Операция &quot;могу_ли_пойти&quot; стала общедоступной и имеет теперь информацию об ячейке, с которой нужно определять возможность перемещения робота.">
+      <created>1618172138767</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1618172138767</updated>
+    </task>
+    <task id="LOCAL-00103" summary="1_4_prototype_gui - Добавления.&#10; - Добавлен документ с описанием визуальной и визуально-интерактивной частей игры.">
+      <created>1618248422156</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1618248422157</updated>
+    </task>
+    <task id="LOCAL-00104" summary="1_4_prototype_gui - Добавления/Исправления.&#10; - Добавлено описание анимации попадания в болото глупым роботом, когда умный робот смог сбежать с комнаты;&#10; - Подправлены кадры с основной игрой, с хватанием умного робота глупым роботом, с болотом, с попаданием глупого робота в болото.">
+      <created>1618936626023</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1618936626024</updated>
+    </task>
+    <task id="LOCAL-00105" summary="1_2_design_gui - Добавления.&#10; - Добавлены диаграмма классов и диаграммы последовательности представления игры.">
+      <created>1619618660855</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1619618660856</updated>
+    </task>
+    <task id="LOCAL-00106" summary="1_3_construct_model - Добавления/Исправления.&#10; - Добавлен дополнительный функционал у классов, который необходим при реализации представления игры;&#10; - Исправлены уровни доступа у операций получения глупого робота и точки выхода класса Field;&#10; - Добавлены интерфейс и реализация класса CellBorderPosition.">
+      <created>1619621701980</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1619621701980</updated>
+    </task>
+    <task id="LOCAL-00107" summary="master - Изменение.&#10; - У проекта изменена версия JDK на 16-ую.">
+      <created>1619696324695</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1619696324695</updated>
+    </task>
+    <task id="LOCAL-00108" summary="1_5 - construct_gui - Добавление.&#10; - Добавлены интерфейс и базовая реализация класса GameWidget;&#10; - Добавлены интерфейс и базовая реализация класса FieldWidget;&#10; - Добавлены интерфейсы и базовые реализации классов AbstractCellWidget, CellWidget, BetweenCellsWidget, CellBorderWidget, необходимые для создания объекта класса FieldWidget.">
+      <created>1619712352427</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1619712352427</updated>
+    </task>
+    <task id="LOCAL-00109" summary="1_5 - construct_gui - Исправления.&#10; - Исправлено размещение виджета поля в виджете игры так, чтобы виджет поля располагался в левом центре виджета игры.">
+      <created>1619854635958</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1619854635959</updated>
+    </task>
+    <task id="LOCAL-00110" summary="1_2 - design - Исправления.&#10; - Умный робот в модели теперь подписывается на прослушивание глупого робота для сообщения виджету умного робота о своей видимости глупым роботом.">
+      <created>1619856600174</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1619856600174</updated>
+    </task>
+    <task id="LOCAL-00111" summary="1_3 - construct_model - Добавления/Исправления.&#10; - Добавлено перечисление Orientation, описывающее горизонтальную и вертикульную ориентацию для сущностью класса Direction и BetweenCellsPosition;&#10; - Переделаны перечисление Direction и класс BetweenCellsPosition для поддержки использования класса Orientation.">
+      <created>1619878556250</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1619878556250</updated>
+    </task>
+    <task id="LOCAL-00112" summary="1_5 - construct_gui - Добавления.&#10; - Добавлено отображение заднего фона виджета клеток на виджете поля.">
+      <created>1619885444062</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1619885444062</updated>
+    </task>
+    <task id="LOCAL-00113" summary="1_2 - design_model - Исправления.&#10; - Операции создания и запоминания виджетов точки выхода, игровых элементов, стен и краёв стен переназначены с класса FieldWidget на класс WidgetFactory.">
+      <created>1619971851602</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1619971851602</updated>
+    </task>
+    <task id="LOCAL-00114" summary="1_3 - construct_model - Добавления.&#10; - Добавлены операции получения позиции для каждой вершины класса RectangleArea.">
+      <created>1619973708086</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1619973708086</updated>
+    </task>
+    <task id="LOCAL-00115" summary="1_5 - construct_gui - Добавления.&#10; - Добавлены основные виджеты для отрисовки элементов поля;&#10; - Добавлена возможность синхронизации виджета поля с полем из модели;&#10; - Добавлено базовое отображение виджетов основных элементов поля из модели на виджете поля.">
+      <created>1620109633029</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1620109633029</updated>
+    </task>
+    <task id="LOCAL-00116" summary="1_5 - construct_gui - Добавления.&#10; - Добавлена возможность перемещения умного робота с помощью клавиатуры;&#10; - Добавлена отрисовка виджетов стен и уголков стен.">
+      <created>1620378053033</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1620378053034</updated>
+    </task>
+    <task id="LOCAL-00117" summary="1_5 - construct_gui - Изменения.&#10; - Класс AbstractCellWidget теперь является наследником класса JLayeredPane, а не JPanel;&#10; - Изменены способы добавления и удаления игровых виджетов из виджета ячейки с учётом наследования от JLayeredPane;&#10; - Теперь класс AbstractCellWidget задаёт начальные размеры виджетов ячеек-наследников;&#10; - Задан новый фон у виджета точки выхода.">
+      <created>1620400286619</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1620400286619</updated>
+    </task>
+    <task id="LOCAL-00118" summary="1_5 - construct_gui - Добавления.&#10; - Добавлен интерфейс IAnimatedWidget, добавляющий спецификацию функционала анимированных виджетов;&#10; - Добавлен класс Animation, хранящий кадры анимации и позволяющий их переключать;&#10; - Добавлена реализация интерфейса IAnimatedWidget у классов GameElementWidget и ExitCellWidget;&#10; - Добавлено обновление анимации всех виджетов после каждого шага умного робота.">
+      <created>1620571298384</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1620571298385</updated>
+    </task>
+    <task id="LOCAL-00119" summary="1_5 - construct_gui - Добавления/Исправления.&#10; - Добавлена обработка завершения игры в классе GameWidget;&#10; - Изменён способ установки позиций и размеров виджета поля и виджета сообщения итога игры для корректной установки на главном игровом виджете(GameWidget), имеющем слои;&#10; - Виджет поля и виджет сообщения итога игры расставлены по своим слоям главного игрового виджета(GameWidget).">
+      <created>1620590038589</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1620590038589</updated>
+    </task>
+    <task id="LOCAL-00120" summary="1_5 - construct_gui - Добавления.&#10; - Добавлена возможность перезагрузки игры после её прохождения.">
+      <created>1620630656745</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1620630656745</updated>
+    </task>
+    <task id="LOCAL-00121" summary="1_5 - construct_gui - Добавления/Изменения.&#10; - Теперь при создании класс Animation требует на вход набор картинок кадров, а не набор путей к файлам картинок кадров;&#10; - Класс Animation предоставляет статическую операцию получения набора картинок кадров по набору путей к картинкам кадров;&#10; - Отформатирован код представления игры;&#10; - Добавлены новые комментарии и изменены текущие в классах представления игры;&#10; - Более чётко определена классификация свойств и операций классов представления игры.">
+      <created>1620854286215</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1620854286216</updated>
+    </task>
+    <task id="LOCAL-00122" summary="1_5 - construct_gui - Добавления/Изменения.&#10; - Добавлены пакеты, классифицирующие сущности представления игры;&#10; - По добавленным пакетам распределены сущности представления игры.">
+      <created>1620881900708</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1620881900709</updated>
+    </task>
+    <task id="LOCAL-00123" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлено новое препятствие для глупого робота - точка выхода;&#10; - Игра запускается со стандартным проектировщиком лабиринтов вместо тестового;&#10; - Изменено создание игрового поля стандартным проектировщиком лабиринтов.">
+      <created>1620887653957</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1620887653957</updated>
+    </task>
+    <task id="LOCAL-00124" summary="1_3 - construct_model - Изменения.&#10; - Изменены изображения сообщений окончания игры;&#10; - Изменены все кадры, связанные с нахождением глупого робота в болоте.">
+      <created>1620889718552</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1620889718552</updated>
+    </task>
+    <task id="LOCAL-00125" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлен тест класса StandardCell для проверки невозможности расположения болота на ячейку с умным роботом;&#10; - Изменено знание ячейки о том, кто может располагаться на ней: на ячейку не может разместиться игровой элемент, если внутренние игровые элементы не могут быть в одной ячейке с размещаемым игровым элементом.">
+      <created>1622028330778</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1622028330778</updated>
+    </task>
+    <task id="LOCAL-00126" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Обобщена операция возможности занять ячейку у игровых элементов;&#10; - Добавлено знание у каждого игрового элемента о возможности установить позицию;&#10; - Изменён способ проверки размещения игровых элементов внутрь точки выхода.">
+      <created>1622030092186</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1622030092186</updated>
+    </task>
+    <task id="LOCAL-00127" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлена и реализована сущность сезона года;&#10; - Добавлена и реализована операция у игры обновления сезона года;&#10; - Обновлён основный цикл хода игры: после каждого хода происходит обновление сезона года;&#10; - Добавлена и реализована операция у поля обновления всех внутренних ландшафтов при смене сезона года.">
+      <created>1622032121387</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1622032121387</updated>
+    </task>
+    <task id="LOCAL-00128" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлен интерфейс ландшафтов Landscape;&#10; - Добавлен и реализован класс SingleLandscape;&#10; - Добавлен класс MultipleLandscape.">
+      <created>1622035795037</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1622035795037</updated>
+    </task>
+    <task id="LOCAL-00129" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Изменена и декомпозирована стандартная операция перемещения роботов с учётом возможного воздействия ландшафтов;&#10; - Добавлена и реализована сущность LandscapeActions, хранящая операции воздействия на роботов;&#10; - Добавлена сущность LandscapeState, являющаяся обобщением состояний ландшафтов.">
+      <created>1622112330246</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1622112330246</updated>
+    </task>
+    <task id="LOCAL-00130" summary="1_3 - construct_model - Добавления.&#10; - Добавлена реализация операции принудительного перемещения.">
+      <created>1622115524704</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1622115524704</updated>
+    </task>
+    <task id="LOCAL-00131" summary="1_3 - construct_model - Добавления.&#10; - Добавлена реализация операций пропуска ходов у умного и глупого роботов.">
+      <created>1622116150508</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1622116150508</updated>
+    </task>
+    <task id="LOCAL-00132" summary="1_3 - construct_model - Добавления.&#10; - Обобщён функционал слушателей у роботов.">
+      <created>1622120834790</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1622120834790</updated>
+    </task>
+    <task id="LOCAL-00133" summary="1_3 - construct_model - Изменения.&#10; - Изменены создания пауз у ожидающих роботов при пропуске ходов или принудительном перемещении: вместо остановки главного потока добавлены таймеры ожидания из библиотеки Swing.">
+      <created>1622222781049</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1622222781050</updated>
+    </task>
+    <task id="LOCAL-00134" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлена операция у ячейки для проверки принадлежности данной ячейки к своим соседям;&#10; - Добавлена операция у ячейки для получения направления, по которому располагается данный сосед-ячейка;&#10; - Изменено эффективное перемещение глупого робота: глупый робот перемещается с использованием операции &quot;_makeStep&quot;, определённой у предка, вместо ручного перемещения между ячейками.">
+      <created>1622224100698</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1622224100698</updated>
+    </task>
+    <task id="LOCAL-00135" summary="1_3 - construct_model - Добавления.&#10; - Встроена сущность набора возможных воздействий на робота внутрь одиночного и множественного ландшафтов.">
+      <created>1622229719303</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1622229719303</updated>
+    </task>
+    <task id="LOCAL-00136" summary="1_3 - construct_model - Добавления.&#10; - Добавлен интерфейс обновляемого ландшафта;&#10; - Добавлен интерфейс ландшафта с множеством состояний.">
+      <created>1622230665488</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1622230665488</updated>
+    </task>
+    <task id="LOCAL-00137" summary="1_3 - construct_model - Добавления/Изменения.&#10; - Реализован класс MultipleLandscape;&#10; - Подправлено оформление свойств классов SingleLandscape и MultipleLandscape.">
+      <created>1622231604234</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1622231604234</updated>
+    </task>
+    <task id="LOCAL-00138" summary="1_3 - construct_model - Добавления.&#10; - Добавлены и реализованы классы Sand и Sewer;&#10; - Добавлен функционал уничтожения умного робота.">
+      <created>1622303343039</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1622303343040</updated>
+    </task>
+    <task id="LOCAL-00139" summary="1_3 - construct_model - Добавления.&#10; - Добавлены операции записи информации о создаваемых ландшафтах на поле у проектировщиков лабиринтов;&#10; - Добавлен функционал установки ландшафтов на поле проектировщиком лабиринтов;&#10; - Реализована операция обновления ландшафтов на поле.">
+      <created>1622369506132</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1622369506132</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TEST_SillyRobot_makeStep_makingStepToSmartRobotWhichIsntOnField - 2021.04.09 at 14h 44m 06s.xml">
+      <configuration name="TEST_SillyRobot.makeStep_makingStepToSmartRobotWhichIsntOnField" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_makeStep_makingStepToSmartRobotWhichIsntOnField - 2021.04.09 at 14h 45m 13s.xml">
+      <configuration name="TEST_SillyRobot.makeStep_makingStepToSmartRobotWhichIsntOnField" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_makeStep_makingStepToSmartRobotWhichIsntOnField - 2021.04.09 at 14h 46m 20s.xml">
+      <configuration name="TEST_SillyRobot.makeStep_makingStepToSmartRobotWhichIsntOnField" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot - 2021.04.09 at 14h 46m 26s.xml">
+      <configuration name="TEST_SillyRobot" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_catchSmartRobot_smartRobotIsOnTheSameCell - 2021.04.09 at 14h 50m 53s.xml">
+      <configuration name="TEST_SillyRobot.catchSmartRobot_smartRobotIsOnTheSameCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_catchSmartRobot_smartRobotIsOnTheSameCell - 2021.04.09 at 14h 51m 08s.xml">
+      <configuration name="TEST_SillyRobot.catchSmartRobot_smartRobotIsOnTheSameCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_catchSmartRobot_smartRobotIsOnTheSameCell - 2021.04.09 at 14h 56m 18s.xml">
+      <configuration name="TEST_SillyRobot.catchSmartRobot_smartRobotIsOnTheSameCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_catchSmartRobot_smartRobotIsOnTheDifferentCell - 2021.04.09 at 14h 59m 40s.xml">
+      <configuration name="TEST_SillyRobot.catchSmartRobot_smartRobotIsOnTheDifferentCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot_catchSmartRobot_smartRobotIsOnTheDifferentCell - 2021.04.09 at 14h 59m 59s.xml">
+      <configuration name="TEST_SillyRobot.catchSmartRobot_smartRobotIsOnTheDifferentCell" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TEST_SillyRobot - 2021.04.09 at 15h 00m 04s.xml">
+      <configuration name="TEST_SillyRobot" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="702" y="0" width="1225" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992743" visible="true" weight="0.24806868" />
+      <window_info id="Structure" order="1" sideWeight="0.5007257" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.41247264" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.30525163" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" weight="0.22426869" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.18526544" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49902913" weight="0.34561214" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1_5 - construct_gui - Добавления/Исправления.&#10; - Добавлена обработка завершения игры в классе GameWidget;&#10; - Изменён способ установки позиций и размеров виджета поля и виджета сообщения итога игры для корректной установки на главном игровом виджете(GameWidget), имеющем слои;&#10; - Виджет поля и виджет сообщения итога игры расставлены по своим слоям главного игрового виджета(GameWidget)." />
+    <MESSAGE value="1_5 - construct_gui - Добавления.&#10; - Добавлена возможность перезагрузки игры после её прохождения." />
+    <MESSAGE value="1_5 - construct_gui - Изменения.&#10; - Отформатирован код представления игры;&#10; - Добавлены новые комментарии и изменены текущие в классах представления игры;&#10; - Комментариями более чётко были классифицированы свойства и операции классов представления игры." />
+    <MESSAGE value="1_5 - construct_gui - Добавления/Изменения.&#10; - Теперь при создании класс Animation требует на вход набор картинок кадров, а не набор путей к файлам картинок кадров;&#10; - Класс Animation предоставляет статическую операцию получения набора картинок кадров по набору путей к картинкам кадров;&#10; - Отформатирован код представления игры;&#10; - Добавлены новые комментарии и изменены текущие в классах представления игры;&#10; - Более чётко определена классификация свойств и операций классов представления игры." />
+    <MESSAGE value="1_5 - construct_gui - Добавления/Изменения.&#10; - Добавлены пакеты, классифицирующие сущности представления игры;&#10; - По добавленным пакетам распределены сущности представления игры." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлено новое препятствие для глупого робота - точка выхода;&#10; - Игра запускается со стандартным проектировщиком лабиринтов вместо тестового;&#10; - Изменено создание игрового поля стандартным проектировщиком лабиринтов." />
+    <MESSAGE value="1_5 - construct_gui - Изменения.&#10; - Изменены изображения сообщений окончания игры;&#10; - Изменены все кадры, связанные с нахождением глупого робота в болоте." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлен тест класса StandardCell для проверки невозможности расположения болота на ячейку с умным роботом;&#10; - Изменено знание ячейки о том, кто может располагаться на ней: на ячейку не может разместиться игровой элемент, если внутренние игровые элементы не могут быть в одной ячейке с размещаемым игровым элементом." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Обобщена операция возможности занять ячейку у игровых элементов;&#10; - Добавлено знание у каждого игрового элемента о возможности установить позицию;&#10; - Изменён способ проверки размещения игровых элементов внутрь точки выхода." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлена и реализована сущность сезона года;&#10; - Добавлена и реализована операция у игры обновления сезона года;&#10; - Обновлён основный цикл хода игры: после каждого хода происходит обновление сезона года;&#10; - Добавлена и реализована операция у поля обновления всех внутренних ландшафтов при смене сезона года." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлен интерфейс ландшафтов Landscape;&#10; - Добавлен и реализован класс SingleLandscape;&#10; - Добавлен класс MultipleLandscape." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Изменена и декомпозирована стандартная операция перемещения роботов с учётом возможного воздействия ландшафтов;&#10; - Добавлена и реализована сущность LandscapeActions, хранящая операции воздействия на роботов;&#10; - Добавлена сущность LandscapeState, являющаяся обобщением состояний ландшафтов." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Добавлена реализация операции принудительного перемещения." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Добавлена реализация операций пропуска ходов у умного и глупого роботов." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Обобщён функционал слушателей у роботов." />
+    <MESSAGE value="1_3 - construct_model - Изменения.&#10; - Изменены создания пауз у ожидающих роботов при пропуске ходов или принудительном перемещении: вместо остановки главного потока добавлены таймеры ожидания библиотеки Swing." />
+    <MESSAGE value="1_3 - construct_model - Изменения.&#10; - Изменены создания пауз у ожидающих роботов при пропуске ходов или принудительном перемещении: вместо остановки главного потока добавлены таймеры ожидания из библиотеки Swing." />
+    <MESSAGE value="1_3 - construct_model - Изменения.&#10; - Изменено эффективное перемещение глупого робота: глупый робот перемещается с использованием операции &quot;_makeStep&quot;, определённой у предка, вместо ручного перемещения между ячейками." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Добавлена операция у ячейки для проверки принадлежности данной ячейки к своим соседям;&#10; - Добавлена операция у ячейки для получения направления, по которому располагается данный сосед-ячейка;&#10; - Изменено эффективное перемещение глупого робота: глупый робот перемещается с использованием операции &quot;_makeStep&quot;, определённой у предка, вместо ручного перемещения между ячейками." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Встроена сущность набора возможных воздействий на робота внутрь одиночного и множественного ландшафтов." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Добавлен интерфейс обновляемого ландшафта;&#10; - Добавлен интерфейс ландшафта с множеством состояний." />
+    <MESSAGE value="1_3 - construct_model - Добавления/Изменения.&#10; - Реализован класс MultipleLandscape;&#10; - Подправлено оформление свойств классов SingleLandscape и MultipleLandscape." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Добавлены и реализованы классы Sand и Sewer;&#10; - Добавлен функционал уничтожения умного робота." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Добавлены операции записи информации о создаваемых ландшафтах на поле у проектировщиков лабиринтов;&#10; - Добавлен функционал установки проектировщиком лабиринтов ландшафтов на поле;&#10; - Реализована операция обновления ландшафтов на поле." />
+    <MESSAGE value="1_3 - construct_model - Добавления.&#10; - Добавлены операции записи информации о создаваемых ландшафтах на поле у проектировщиков лабиринтов;&#10; - Добавлен функционал установки ландшафтов на поле проектировщиком лабиринтов;&#10; - Реализована операция обновления ландшафтов на поле." />
+    <option name="LAST_COMMIT_MESSAGE" value="1_3 - construct_model - Добавления.&#10; - Добавлены операции записи информации о создаваемых ландшафтах на поле у проектировщиков лабиринтов;&#10; - Добавлен функционал установки ландшафтов на поле проектировщиком лабиринтов;&#10; - Реализована операция обновления ландшафтов на поле." />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="model.GameCore.FinishingGameCore.SillyRobot" memberName="_position" />
+        <PinnedItemInfo parentTag="ui.GameWidget" memberName="_endMessageWidget" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="((StandardCell)route.get(2))._neighbours" custom="model.Cells.StandardCell" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/7_2_Yakimov$Main.ic" NAME="Main Coverage Results" MODIFIED="1620628908226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/model/MazeDesigners/SimpleMazeDesigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/Navigation/TEST_BetweenCellsPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="195" column="5" lean-forward="true" selection-start-line="195" selection-start-column="5" selection-end-line="195" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/Navigation/TEST_Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/Navigation/TEST_RectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/Navigation/TEST_RectangleSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="338" selection-start-line="338" selection-end-line="338" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Cells/StandardCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Additional/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="1296" column="25" selection-start-line="1296" selection-start-column="25" selection-end-line="1296" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/Navigation/TEST_CellPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Navigation/Direction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameElements/Sewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="74" selection-start-line="15" selection-start-column="74" selection-end-line="15" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Navigation/RectangleArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Navigation/RectangleSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="69" column="61" selection-start-line="69" selection-start-column="61" selection-end-line="69" selection-end-column="61" />
+          <folding>
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1072#1073#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1188#1189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Navigation/CellPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/MazeDesigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="106" column="28" selection-start-line="106" selection-start-column="28" selection-end-line="106" selection-end-column="28" />
+          <folding>
+            <element signature="e#3596#3597#0" expanded="true" />
+            <element signature="e#3629#3630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/TEST_Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/GameEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Navigation/BetweenCellsPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="129" column="79" selection-start-line="129" selection-start-column="79" selection-end-line="129" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/TEST_Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="253" column="46" selection-start-line="253" selection-start-column="46" selection-end-line="253" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/GameEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/SmartRobotEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/TEST_GameElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/ExitCellEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/AbstractCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#398#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/TEST_StandardCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/FinishingGameCore/TEST_ExitCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="256" column="51" selection-start-line="256" selection-start-column="51" selection-end-line="256" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/SmartRobotEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/SillyRobotEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/FinishingGameCore/ExitCell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Events/SillyRobotEventListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameElements/AbstractRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="204" column="53" selection-start-line="204" selection-start-column="53" selection-end-line="204" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/GameElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/MazeDesigners/ForTestMazeDesigner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/FinishingGameCore/TEST_SmartRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="190" column="31" selection-start-line="190" selection-start-column="31" selection-end-line="190" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/FinishingGameCore/SillyRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="177" column="16" selection-start-line="177" selection-start-column="16" selection-end-line="177" selection-end-column="16" />
+          <folding>
+            <element signature="e#5963#5964#0" expanded="true" />
+            <element signature="e#6203#6204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/GameCore/FinishingGameCore/SmartRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/model/GameCore/FinishingGameCore/TEST_SillyRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="363" column="26" lean-forward="true" selection-start-line="363" selection-start-column="26" selection-end-line="363" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
